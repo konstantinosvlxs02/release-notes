@@ -18,6 +18,9 @@
       }
     ],
     "dest": "_site",
+    "globalMetadata": {
+      "_disableContribution": true
+    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
