@@ -1,0 +1,9 @@
+- name: Innovera
+  href: articles/innovera/
+  homepage: articles/innovera/index.md
+- name: MyData
+  href: articles/mydata/
+  homepage: articles/mydata/index.md
+- name: Premium
+  href: articles/premium/
+  homepage: articles/premium/index.md

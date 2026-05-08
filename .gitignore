@@ -1,0 +1,15 @@
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+_site/
+
+###############
+#    files    #
+###############
+*.docx
+New-TestDocx.ps1
